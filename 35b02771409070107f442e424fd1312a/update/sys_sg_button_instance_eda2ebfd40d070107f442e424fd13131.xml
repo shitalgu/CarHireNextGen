@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Car Hire)">e1a2ebfd40d070107f442e424fd1312b</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Car Hire)</name>
+        <order/>
+        <parent>25a2ebfd40d070107f442e424fd1311d</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 12:47:14</sys_created_on>
+        <sys_id>eda2ebfd40d070107f442e424fd13131</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Car Hire)</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">35b02771409070107f442e424fd1312a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">35b02771409070107f442e424fd1312a</sys_scope>
+        <sys_update_name>sys_sg_button_instance_eda2ebfd40d070107f442e424fd13131</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 12:47:14</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=eda2ebfd40d070107f442e424fd13131"/>
+</record_update>

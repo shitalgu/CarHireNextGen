@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>25a2ebfd40d070107f442e424fd1311d</applets>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <orientation>horizontal</orientation>
+        <required_roles>x_cdltd_car_hire.user</required_roles>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 12:47:14</sys_created_on>
+        <sys_id>6da2ebfd40d070107f442e424fd1313e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Car Hire</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">35b02771409070107f442e424fd1312a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">35b02771409070107f442e424fd1312a</sys_scope>
+        <sys_update_name>sys_sg_icon_section_6da2ebfd40d070107f442e424fd1313e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 12:47:14</sys_updated_on>
+        <table/>
+        <title>Car Hire</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>

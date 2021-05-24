@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_carhiremanagement_mobilestudio" name="sn_dd_carhiremanagement_mobilestudio">56c4a771401470107f442e424fd13145</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 12:56:34</sys_created_on>
+        <sys_id>9ec4a771401470107f442e424fd13147</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>56c4a771401470107f442e424fd13145</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">35b02771409070107f442e424fd1312a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">35b02771409070107f442e424fd1312a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_9ec4a771401470107f442e424fd13147</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 12:56:34</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

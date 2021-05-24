@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description> Car Hire</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">9da26bfd40d070107f442e424fd1313b</icon>
+        <name>Details</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 12:47:13</sys_created_on>
+        <sys_id>ada2ebfd40d070107f442e424fd1311e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">35b02771409070107f442e424fd1312a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">35b02771409070107f442e424fd1312a</sys_scope>
+        <sys_update_name>sys_sg_details_screen_ada2ebfd40d070107f442e424fd1311e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 12:47:13</sys_updated_on>
+        <table>x_cdltd_car_hire_car_hire</table>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=ada2ebfd40d070107f442e424fd1311e"/>
+</record_update>

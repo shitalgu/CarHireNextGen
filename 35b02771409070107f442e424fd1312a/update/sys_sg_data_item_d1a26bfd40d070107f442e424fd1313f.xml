@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Car Hire Management Car Hire</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 12:47:13</sys_created_on>
+        <sys_id>d1a26bfd40d070107f442e424fd1313f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Car Hire Management Car Hire</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">35b02771409070107f442e424fd1312a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">35b02771409070107f442e424fd1312a</sys_scope>
+        <sys_update_name>sys_sg_data_item_d1a26bfd40d070107f442e424fd1313f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 12:47:13</sys_updated_on>
+        <table>x_cdltd_car_hire_car_hire</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=d1a26bfd40d070107f442e424fd1313f"/>
+</record_update>
