@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>30fbc0d24010b0107f442e424fd13131</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_cdltd_car_hire_car_hire">
+    <x_cdltd_car_hire_car_hire action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to/>
+        <assignment_group/>
+        <brand_name/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <car_name/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <color/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_number/>
+        <contact_type/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <drop_off_time>2021-05-26 10:26:13</drop_off_time>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <fuel_type/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location/>
+        <location_to_be_used/>
+        <made_sla>true</made_sla>
+        <number>CHR0001019</number>
+        <opened_at>2021-05-25 10:26:09</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <pick_up_time>2021-05-25 10:26:11</pick_up_time>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <requested_for/>
+        <route_reason/>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <state>1</state>
+        <sys_class_name>x_cdltd_car_hire_car_hire</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-25 10:26:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>30fbc0d24010b0107f442e424fd13131</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-25 10:26:18</sys_updated_on>
+        <task_effective_number>CHR0001019</task_effective_number>
+        <time_worked/>
+        <travel_type/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+        <your_email/>
+    </x_cdltd_car_hire_car_hire>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-25 10:27:11</sys_created_on>
+        <sys_id>7b2c40164010b0107f442e424fd13178</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CHR0001019</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">35b02771409070107f442e424fd1312a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">35b02771409070107f442e424fd1312a</sys_scope>
+        <sys_update_name>sys_metadata_link_7b2c40164010b0107f442e424fd13178</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-25 10:27:11</sys_updated_on>
+        <tablename>x_cdltd_car_hire_car_hire</tablename>
+    </sys_metadata_link>
+</record_update>
