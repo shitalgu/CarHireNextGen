@@ -1,12 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="task" label="Car Hire" max_length="40" name="x_cdltd_car_hire_car_hire" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Brand Name" max_length="40" name="brand_name" type="string">
+            <choice>
+                <element inactive_on_update="false" label="VolksWagen" sequence="0" value="volkswagen"/>
+                <element inactive_on_update="false" label="BMW" sequence="1" value="bmw"/>
+                <element inactive_on_update="false" label="Toyota" sequence="2" value="toyota"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Car Name" max_length="40" name="car_name" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Camry" sequence="0" value="camry"/>
+                <element inactive_on_update="false" label="Ventro" sequence="1" value="ventro"/>
+                <element inactive_on_update="false" label="BMW-8 series" sequence="2" value="bmw-8"/>
+                <element inactive_on_update="false" label="Polo" sequence="3" value="polo"/>
+                <element inactive_on_update="false" label="Taigun" sequence="4" value="taigun"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Color" max_length="40" name="color" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Black" sequence="0" value="black"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Blue" sequence="1" value="blue"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Red" sequence="2" value="red"/>
+                <element inactive_on_update="false" label="Grey" sequence="3" value="grey"/>
+            </choice>
+        </element>
+        <element label="Contact Number" max_length="40" name="contact_number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Drop Off Time" max_length="40" name="drop_off_time" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Fuel Type" max_length="40" name="fuel_type" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="Diesel" sequence="0" value="diesel"/>
+                <element inactive_on_update="false" label="Petrol" sequence="1" value="petrol"/>
+                <element inactive_on_update="false" label="Gas" sequence="2" value="gas"/>
+            </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Location to be used" max_length="40" name="location_to_be_used" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Pick Up Time" max_length="40" name="pick_up_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Requested For" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Travel Type" max_length="40" name="travel_type" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="One Way" sequence="0" value="one way"/>
+                <element inactive_on_update="false" label="Two Way" sequence="1" value="two way"/>
+                <element inactive_on_update="false" label="Within City" sequence="2" value="within city"/>
+            </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Your email" max_length="40" name="your_email" type="string"/>
     </element>
 </database>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c225040a405470107f442e424fd13118" sys_domain="global" table="x_cdltd_car_hire_car_hire" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-24 15:17:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4625040a405470107f442e424fd1311b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_cdltd_car_hire_car_hire" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="Default view">c225040a405470107f442e424fd13118</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="Default view">bad227bd40d070107f442e424fd131a7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-24 15:17:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-24 15:17:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4225040a405470107f442e424fd1311c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_cdltd_car_hire_car_hire" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="Default view">c225040a405470107f442e424fd13118</sys_ui_form>
+            <sys_ui_section caption="Hirer Information" display_value="Hirer Information" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="Default view">c225040a405470107f442e424fd13116</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-24 15:17:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-24 15:19:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c95480a405470107f442e424fd13105</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_cdltd_car_hire_car_hire" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="Default view">c225040a405470107f442e424fd13118</sys_ui_form>
+            <sys_ui_section caption="Car Information" display_value="Car Information" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="Default view">5495080a405470107f442e424fd1319f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-24 15:19:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_cdltd_car_hire_car_hire</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-24 15:17:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c225040a405470107f442e424fd13118</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_car_hire_car_hire</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">35b02771409070107f442e424fd1312a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Car Hire Management">35b02771409070107f442e424fd1312a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c225040a405470107f442e424fd13118</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-24 15:17:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

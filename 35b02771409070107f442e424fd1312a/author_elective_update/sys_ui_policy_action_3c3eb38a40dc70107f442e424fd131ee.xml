@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>location_to_be_used</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-25 09:26:15</sys_created_on>
+        <sys_id>3c3eb38a40dc70107f442e424fd131ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>location_to_be_used</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">35b02771409070107f442e424fd1312a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">35b02771409070107f442e424fd1312a</sys_scope>
+        <sys_update_name>sys_ui_policy_action_3c3eb38a40dc70107f442e424fd131ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-25 09:26:15</sys_updated_on>
+        <table>x_cdltd_car_hire_car_hire</table>
+        <ui_policy display_value="test">021eb74a40dc70107f442e424fd13140</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Car Hire Management">35b02771409070107f442e424fd1312a</application>
+        <file_path/>
+        <instance_id>9fa7dc69dbd0fc103e1000b5ca9619c3</instance_id>
+        <instance_name>adf-may-103-dev-001-instructor</instance_name>
+        <name>sys_ui_policy_action_3c3eb38a40dc70107f442e424fd131ee</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>location_to_be_used</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-25 09:26:15</sys_created_on><sys_id>3c3eb38a40dc70107f442e424fd131ee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>location_to_be_used</sys_name><sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">35b02771409070107f442e424fd1312a</sys_package><sys_policy/><sys_scope display_value="Car Hire Management">35b02771409070107f442e424fd1312a</sys_scope><sys_update_name>sys_ui_policy_action_3c3eb38a40dc70107f442e424fd131ee</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-25 09:26:15</sys_updated_on><table>x_cdltd_car_hire_car_hire</table><ui_policy display_value="test">021eb74a40dc70107f442e424fd13140</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-946371317</payload_hash>
+        <record_name>location_to_be_used</record_name>
+        <reverted_from/>
+        <source>32dc2f75401470107f442e424fd13186</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-25 09:26:15</sys_created_on>
+        <sys_id>5f3ef38a40dc70107f442e424fd13157</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179a2d89d630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-25 09:26:15</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>973ef38a41dc701048b21966416bd357</update_guid>
+        <update_guid_history>973ef38a41dc701048b21966416bd357:-946371317</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-25 09:27:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>a00d1fd6fdab4e00ae7940c749dc5040</sys_id>
+        <sys_metadata>3c3eb38a40dc70107f442e424fd131ee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>location_to_be_used</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">35b02771409070107f442e424fd1312a</sys_package>
+        <sys_parent display_value="test">021eb74a40dc70107f442e424fd13140</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">35b02771409070107f442e424fd1312a</sys_scope>
+        <sys_scope_delete display_value="">0fc624e1aca84c3a9ae640465fae6941</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_3c3eb38a40dc70107f442e424fd131ee</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_3c3eb38a40dc70107f442e424fd131ee">5f3ef38a40dc70107f442e424fd13157</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-25 09:27:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

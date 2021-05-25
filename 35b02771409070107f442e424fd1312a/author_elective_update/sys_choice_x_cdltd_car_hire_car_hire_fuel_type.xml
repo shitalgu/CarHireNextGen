@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="fuel_type" table="x_cdltd_car_hire_car_hire" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>fuel_type</element>
+            <name>x_cdltd_car_hire_car_hire</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-25 07:54:39</sys_created_on>
+            <sys_id>5d49e30e409c70107f442e424fd1310f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>fuel_type</sys_name>
+            <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">35b02771409070107f442e424fd1312a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Car Hire Management">35b02771409070107f442e424fd1312a</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_car_hire_car_hire_fuel_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-25 07:54:39</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fuel_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Diesel</label>
+            <language>en</language>
+            <name>x_cdltd_car_hire_car_hire</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-25 07:54:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1549e30e409c70107f442e424fd1310f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-25 07:54:39</sys_updated_on>
+            <value>diesel</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fuel_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Petrol</label>
+            <language>en</language>
+            <name>x_cdltd_car_hire_car_hire</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-25 07:54:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9549e30e409c70107f442e424fd13111</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-25 07:54:39</sys_updated_on>
+            <value>petrol</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fuel_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gas</label>
+            <language>en</language>
+            <name>x_cdltd_car_hire_car_hire</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-25 07:54:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5549e30e409c70107f442e424fd13113</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-25 07:54:39</sys_updated_on>
+            <value>gas</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
