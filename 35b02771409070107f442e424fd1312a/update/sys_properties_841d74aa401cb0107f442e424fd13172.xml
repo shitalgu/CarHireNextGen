@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>number of hours to send reminder to return the device</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_cdltd_car_hire.return.time</name>
+        <read_roles>admin</read_roles>
+        <suffix>return.time</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-26 08:40:58</sys_created_on>
+        <sys_id>841d74aa401cb0107f442e424fd13172</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_cdltd_car_hire.return.time</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">35b02771409070107f442e424fd1312a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">35b02771409070107f442e424fd1312a</sys_scope>
+        <sys_update_name>sys_properties_841d74aa401cb0107f442e424fd13172</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-26 08:46:17</sys_updated_on>
+        <type>integer</type>
+        <value>30</value>
+        <write_roles>admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=841d74aa401cb0107f442e424fd13172"/>
+</record_update>

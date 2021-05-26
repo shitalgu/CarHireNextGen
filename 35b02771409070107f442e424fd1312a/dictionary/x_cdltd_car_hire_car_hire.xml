@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Car Hire" max_length="40" name="x_cdltd_car_hire_car_hire" type="collection">
+    <element extends="task" label="Car Hire" max_length="40" name="x_cdltd_car_hire_car_hire" sizeclass="7" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Brand Name" max_length="40" name="brand_name" type="string">
             <choice>
                 <element inactive_on_update="false" label="VolksWagen" sequence="0" value="volkswagen"/>

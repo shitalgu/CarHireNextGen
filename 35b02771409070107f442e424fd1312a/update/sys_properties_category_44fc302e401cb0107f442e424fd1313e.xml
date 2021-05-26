@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Car Hire Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-26 08:38:58</sys_created_on>
+        <sys_id>44fc302e401cb0107f442e424fd1313e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Car Hire Properties</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">35b02771409070107f442e424fd1312a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">35b02771409070107f442e424fd1312a</sys_scope>
+        <sys_update_name>sys_properties_category_44fc302e401cb0107f442e424fd1313e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-26 08:38:58</sys_updated_on>
+        <title><![CDATA[<p>Car Hire Management </p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=44fc302e401cb0107f442e424fd1313e"/>
+</record_update>
